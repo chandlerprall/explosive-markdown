@@ -1,3 +1,9 @@
+# Explosive Markdown
+
+Why not add physics to everything. Deployed at https://chandler-public.s3.us-west-1.amazonaws.com/exploding-markdown/index.html
+
+![explosive markdown](https://chandler-public.s3.us-west-1.amazonaws.com/explosive-markdown.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
